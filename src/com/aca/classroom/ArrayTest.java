@@ -1,4 +1,4 @@
-package com.company;
+package com.aca.classroom;
 
 public class ArrayTest {
 

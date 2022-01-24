@@ -1,4 +1,4 @@
-package com.company.week2.user;
+package com.aca.classroom.week2.user;
 
 public class UserTest {
 

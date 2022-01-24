@@ -1,4 +1,4 @@
-package com.company.week1;
+package com.aca.classroom.week1;
 
 import java.util.Scanner;
 
