@@ -11,7 +11,7 @@ public class GameTest {
         gameArray[1] = game2;
 
         Player player1 = new Player();
-        player1.username = "aca";
+        player1.username = "com/aca";
         player1.games = gameArray;
     }
 }
